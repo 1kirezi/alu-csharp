@@ -7,7 +7,6 @@
 /mnt/c/alu-csharp/csharp-hello_world/3-writeline/obj/Debug/net7.0/3-writeline.AssemblyInfoInputs.cache
 /mnt/c/alu-csharp/csharp-hello_world/3-writeline/obj/Debug/net7.0/3-writeline.AssemblyInfo.cs
 /mnt/c/alu-csharp/csharp-hello_world/3-writeline/obj/Debug/net7.0/3-writeline.csproj.CoreCompileInputs.cache
-/mnt/c/alu-csharp/csharp-hello_world/3-writeline/obj/Debug/net7.0/3-writeline.sourcelink.json
 /mnt/c/alu-csharp/csharp-hello_world/3-writeline/obj/Debug/net7.0/3-writeline.dll
 /mnt/c/alu-csharp/csharp-hello_world/3-writeline/obj/Debug/net7.0/refint/3-writeline.dll
 /mnt/c/alu-csharp/csharp-hello_world/3-writeline/obj/Debug/net7.0/3-writeline.pdb

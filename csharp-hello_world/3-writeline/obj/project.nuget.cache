@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OIKx5IuhuHM=",
+  "dgSpecHash": "x4dTfxqN5b7ZhI/wCchsF6RyypDNvLWwS/nrmE4aEIY5BDxhTsnJA3kK30l7beFxTZxOIIEvn2EJXamPTy2CDA==",
   "success": true,
   "projectFilePath": "/mnt/c/alu-csharp/csharp-hello_world/3-writeline/3-writeline.csproj",
-  "expectedPackageFiles": [
-    "/home/rutayisire/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
-    "/home/rutayisire/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
-    "/home/rutayisire/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.20/microsoft.netcore.app.host.linux-x64.7.0.20.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
