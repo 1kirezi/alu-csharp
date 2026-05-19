@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
+cd "$(cd "$(dirname "${BASH_SOURCE[0]}")" >/dev/null 2>&1 && pwd)"
+
 if ! command -v dotnet >/dev/null 2>&1; then
   echo "Error: dotnet is not installed or not in PATH." >&2
   exit 1
