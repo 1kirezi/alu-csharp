@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+qytkKZ3k1c=",
+  "dgSpecHash": "DmkrzVxfMLs=",
   "success": true,
-  "projectFilePath": "C:\\alu-csharp\\csharp-hello_world\\2-new_project\\2-new_project.csproj",
+  "projectFilePath": "C:\\alu-csharp\\csharp-hello_world\\0-new_project\\0-new_project.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\GK TECH\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.27\\microsoft.netcore.app.ref.8.0.27.nupkg.sha512",
     "C:\\Users\\GK TECH\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.27\\microsoft.windowsdesktop.app.ref.8.0.27.nupkg.sha512",

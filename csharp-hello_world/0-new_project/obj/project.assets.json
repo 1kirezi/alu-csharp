@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\alu-csharp\\csharp-hello_world\\1-new_project\\1-new_project.csproj",
-      "projectName": "1-new_project",
-      "projectPath": "C:\\alu-csharp\\csharp-hello_world\\1-new_project\\1-new_project.csproj",
+      "projectUniqueName": "C:\\alu-csharp\\csharp-hello_world\\0-new_project\\0-new_project.csproj",
+      "projectName": "0-new_project",
+      "projectPath": "C:\\alu-csharp\\csharp-hello_world\\0-new_project\\0-new_project.csproj",
       "packagesPath": "C:\\Users\\GK TECH\\.nuget\\packages\\",
-      "outputPath": "C:\\alu-csharp\\csharp-hello_world\\1-new_project\\obj\\",
+      "outputPath": "C:\\alu-csharp\\csharp-hello_world\\0-new_project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\GK TECH\\AppData\\Roaming\\NuGet\\NuGet.Config"
