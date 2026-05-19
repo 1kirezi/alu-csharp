@@ -1,37 +1,36 @@
 {
-  "version": 4,
+  "version": 3,
   "targets": {
-    "net8.0": {}
+    "net7.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\GK TECH\\.nuget\\packages\\": {}
+    "/home/rutayisire/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\alu-csharp\\csharp-hello_world\\1-new_project\\1-new_project.csproj",
+      "projectUniqueName": "/mnt/c/alu-csharp/csharp-hello_world/1-new_project/1-new_project.csproj",
       "projectName": "1-new_project",
-      "projectPath": "C:\\alu-csharp\\csharp-hello_world\\1-new_project\\1-new_project.csproj",
-      "packagesPath": "C:\\Users\\GK TECH\\.nuget\\packages\\",
-      "outputPath": "C:\\alu-csharp\\csharp-hello_world\\1-new_project\\obj\\",
+      "projectPath": "/mnt/c/alu-csharp/csharp-hello_world/1-new_project/1-new_project.csproj",
+      "packagesPath": "/home/rutayisire/.nuget/packages/",
+      "outputPath": "/mnt/c/alu-csharp/csharp-hello_world/1-new_project/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\GK TECH\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/rutayisire/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net8.0"
+        "net7.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net8.0": {
-          "framework": "net8.0",
-          "targetAlias": "net8.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "projectReferences": {}
         }
       },
@@ -44,13 +43,11 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "10.0.300"
+      }
     },
     "frameworks": {
-      "net8.0": {
-        "framework": "net8.0",
-        "targetAlias": "net8.0",
+      "net7.0": {
+        "targetAlias": "net7.0",
         "imports": [
           "net461",
           "net462",
@@ -65,19 +62,15 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[8.0.27, 8.0.27]"
+            "version": "[7.0.20, 7.0.20]"
           },
           {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[8.0.27, 8.0.27]"
+            "name": "Microsoft.NETCore.App.Host.linux-x64",
+            "version": "[7.0.20, 7.0.20]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
-            "version": "[8.0.27, 8.0.27]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[8.0.27, 8.0.27]"
+            "version": "[7.0.20, 7.0.20]"
           }
         ],
         "frameworkReferences": {
@@ -85,7 +78,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.421/RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,13 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "IALvAW/bj4w=",
+  "dgSpecHash": "ynWq+u3O7Dg=",
   "success": true,
-  "projectFilePath": "C:\\alu-csharp\\csharp-hello_world\\1-new_project\\1-new_project.csproj",
+  "projectFilePath": "/mnt/c/alu-csharp/csharp-hello_world/1-new_project/1-new_project.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\GK TECH\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.27\\microsoft.netcore.app.ref.8.0.27.nupkg.sha512",
-    "C:\\Users\\GK TECH\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.27\\microsoft.windowsdesktop.app.ref.8.0.27.nupkg.sha512",
-    "C:\\Users\\GK TECH\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.27\\microsoft.aspnetcore.app.ref.8.0.27.nupkg.sha512",
-    "C:\\Users\\GK TECH\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.27\\microsoft.netcore.app.host.win-x64.8.0.27.nupkg.sha512"
+    "/home/rutayisire/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/rutayisire/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/rutayisire/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.20/microsoft.netcore.app.host.linux-x64.7.0.20.nupkg.sha512"
   ],
   "logs": []
 }
