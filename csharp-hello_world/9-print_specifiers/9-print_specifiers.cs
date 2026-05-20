@@ -1,12 +1,11 @@
-using System;
-using System.Globalization;
+﻿using System;
 class Program
 {
-    static void Main()
+    static void Main(string[] args)
     {
-        float number = 0.75525f;
-        string tip = "tip";
-        Console.WriteLine($"Percent: {number.ToString("P2", CultureInfo.GetCultureInfo("en-US"))} {tip}");
-        Console.WriteLine("Currency: " + 98765.43.ToString("C2", CultureInfo.GetCultureInfo("en-US")));
+        double percent = .7553;
+        double currency = 98765.4321;
+        Console.WriteLine($"Percent: {percent:P2}");
+        Console.WriteLine($"Currency: {currency:C2}");
     }
 }
