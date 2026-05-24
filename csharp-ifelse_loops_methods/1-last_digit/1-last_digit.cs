@@ -1,6 +1,6 @@
 ﻿int lastDigit = number % 10;
 
-Console.Write("The last digit of " + number + " is " + lastDigit + " is ");
+Console.Write("The last digit of " + number + " is " + lastDigit + " ");
 
 if (lastDigit > 5)
 {
