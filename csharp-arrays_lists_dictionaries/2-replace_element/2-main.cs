@@ -12,7 +12,6 @@ class Program
     }
 
     static void PrintArray(int[] array)
-    {
         int i;
 
         for (i = 0; i < array.Length; i++)
