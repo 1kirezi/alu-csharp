@@ -1,0 +1,4 @@
+/mnt/c/alu-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/net7.0/2-replace_element.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/alu-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/net7.0/2-replace_element.AssemblyInfoInputs.cache
+/mnt/c/alu-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/net7.0/2-replace_element.AssemblyInfo.cs
+/mnt/c/alu-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/net7.0/2-replace_element.csproj.CoreCompileInputs.cache
