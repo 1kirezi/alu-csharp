@@ -9,3 +9,5 @@
 /mnt/c/alu-csharp/csharp-tdd/1-divide/MyMath/obj/Debug/net7.0/refint/MyMath.dll
 /mnt/c/alu-csharp/csharp-tdd/1-divide/MyMath/obj/Debug/net7.0/MyMath.pdb
 /mnt/c/alu-csharp/csharp-tdd/1-divide/MyMath/obj/Debug/net7.0/ref/MyMath.dll
+/mnt/c/alu-csharp/csharp-tdd/1-divide/MyMath/bin/Debug/net7.0/MyMath.xml
+/mnt/c/alu-csharp/csharp-tdd/1-divide/MyMath/obj/Debug/net7.0/MyMath.xml
