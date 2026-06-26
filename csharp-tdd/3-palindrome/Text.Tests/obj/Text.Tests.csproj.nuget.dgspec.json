@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "/mnt/c/alu-csharp/csharp-tdd/3-palindrome/Text.Tests/Text.Tests.csproj": {}
+  },
+  "projects": {
+    "/mnt/c/alu-csharp/csharp-tdd/3-palindrome/Text.Tests/Text.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/mnt/c/alu-csharp/csharp-tdd/3-palindrome/Text.Tests/Text.Tests.csproj",
+        "projectName": "Text.Tests",
+        "projectPath": "/mnt/c/alu-csharp/csharp-tdd/3-palindrome/Text.Tests/Text.Tests.csproj",
+        "packagesPath": "/home/rutayisire/.nuget/packages/",
+        "outputPath": "/mnt/c/alu-csharp/csharp-tdd/3-palindrome/Text.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/rutayisire/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/mnt/c/alu-csharp/csharp-tdd/3-palindrome/Text/Text.csproj": {
+                "projectPath": "/mnt/c/alu-csharp/csharp-tdd/3-palindrome/Text/Text.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.7.1, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.4.2, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.410/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/mnt/c/alu-csharp/csharp-tdd/3-palindrome/Text/Text.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/mnt/c/alu-csharp/csharp-tdd/3-palindrome/Text/Text.csproj",
+        "projectName": "Text",
+        "projectPath": "/mnt/c/alu-csharp/csharp-tdd/3-palindrome/Text/Text.csproj",
+        "packagesPath": "/home/rutayisire/.nuget/packages/",
+        "outputPath": "/mnt/c/alu-csharp/csharp-tdd/3-palindrome/Text/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/rutayisire/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.410/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
